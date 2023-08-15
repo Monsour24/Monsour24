@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nlp**
 
-- 💬 Ask me about **Python,power Bi and Excel**
+- 💬 Ask me about **Sql,Python,power Bi and Excel**
 
 - 📫 How to reach me **monsour.adeboye@datacy.cloud**
 
